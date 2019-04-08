@@ -1,1 +1,1 @@
-# haskell-src-exts-bug-repro
+# haskell-src-bug
